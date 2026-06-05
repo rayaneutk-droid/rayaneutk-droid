@@ -1,78 +1,79 @@
 # Wassup folks, I'm Inhza
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rayane--inhza--soumahoro-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://fr.linkedin.com/in/rayane-inhza-soumahoro)
+[![Instagram](https://img.shields.io/badge/Instagram-@inhzaprivate-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/inhzaprivate/)
+[![Email](https://img.shields.io/badge/Email-rayaneutk@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rayaneutk@gmail.com)
+
+**MSc Management Commercial · Toulouse**  
+**Open to alternance:** Business Developer · SDR · BDR · AI & SaaS
+
+> Useful execution over decorative projects.  
+> Ne jamais abandonner — tant que l'alternance n'est pas trouvée, je continue.
+
+---
+
 ## EN
 
-I'm an Ivorian MSc Management Commercial student based in Toulouse.
+Ivorian student in **MSc Management Commercial** (INSEEC), based in **Toulouse**.
 
-My current focus is clear: finding an alternance as a Business Developer, SDR, or BDR in an AI or SaaS environment.
+Former **sales advisor at Cultura Blagnac** — learned that doors often open through personality, persistence, and fit, not only CV lines.
 
-I'm building practical tools that connect business development, AI workflows, and employability. I care about useful execution more than decorative projects.
+**Current focus:** land an alternance as **BD / SDR / BDR** in an **AI or SaaS** environment.
 
-### Current Project
+I build practical tools around prospecting, AI workflows, and employability — with pipeline discipline, not vanity projects.
 
-**Alternance Scout**  
-A lightweight prospecting assistant for my alternance search.
+### Flagship project — Alternance Scout
 
-It helps me:
+A local-first **prospecting cockpit** for my alternance search (by **Inhza**).
 
-- find relevant offers
-- score them against my AI/SaaS SDR target
-- avoid generic applications
-- prepare tailored CV, cover letter, email, LinkedIn message, and interview pitch
-- track applications like a sales pipeline
+| Stage | What it does |
+| --- | --- |
+| Market Scan | Find & score offers against an AI/SaaS SDR target |
+| Offer-to-Dossier | Tailored CV, cover letter, email, LinkedIn DM, interview pitch |
+| Tracker | Follow applications like a sales pipeline |
+
+Stack: HTML/CSS/vanilla JS · Vercel · OpenAI API · local-first prototypes
 
 ### Direction
 
-- Business Development / SDR / BDR
-- AI and SaaS sales environments
-- Prospecting systems, qualification, CRM, and pipeline discipline
-- Long-term: tools that improve access to employment opportunities in Cote d'Ivoire
-
-### Stack Right Now
-
-- HTML, CSS, vanilla JavaScript
-- GitHub Pages and Vercel
-- OpenAI API experiments
-- Local-first prototypes before heavier infrastructure
+- Business Development / SDR / BDR in AI & SaaS
+- Prospecting systems, qualification, CRM, pipeline discipline
+- Long term: tools that improve access to employment in **Côte d'Ivoire**
 
 ---
 
 ## FR
 
-Je suis un etudiant ivoirien en MSc Management Commercial, base a Toulouse.
+Étudiant ivoirien en **MSc Management Commercial** (INSEEC), basé à **Toulouse**.
 
-Mon objectif actuel est clair : trouver une alternance comme Business Developer, SDR ou BDR dans un environnement AI ou SaaS.
+Ancien **conseiller de vente chez Cultura Blagnac** — preuve que la détermination et la personnalité comptent autant que le CV.
 
-Je construis des outils pratiques autour du business development, des workflows IA et de l'acces a l'emploi. Je prefere les projets utiles aux projets simplement decoratifs.
+**Objectif actuel :** alternance **BD / SDR / BDR** en environnement **AI ou SaaS**.
 
-### Projet Actuel
+Je construis des outils utiles autour de la prospection, des workflows IA et de l'accès à l'emploi.
 
-**Alternance Scout**  
-Un assistant de prospection leger pour ma recherche d'alternance.
+### Projet phare — Alternance Scout
 
-Il m'aide a :
+Cockpit de prospection **local-first** pour ma recherche d'alternance (marque **Inhza**).
 
-- trouver des offres pertinentes
-- les scorer selon mon objectif AI/SaaS SDR
-- eviter les candidatures generiques
-- preparer CV, lettre, email, message LinkedIn et pitch entretien
-- suivre mes candidatures comme un pipeline commercial
+- trouver et scorer des offres pertinentes
+- éviter les candidatures génériques
+- préparer dossier, messages et pitch entretien
+- suivre le pipeline comme en sales
 
-### Direction
+### Stack actuelle
 
-- Business Development / SDR / BDR
-- Environnements AI et SaaS
-- Prospection, qualification, CRM et discipline de pipeline
-- Long terme : construire des outils qui ameliorent l'acces aux opportunites d'emploi en Cote d'Ivoire
-
-### Stack Actuelle
-
-- HTML, CSS, JavaScript vanilla
-- GitHub Pages et Vercel
-- Experimentations avec l'API OpenAI
-- Prototypes local-first avant infrastructure plus lourde
+`HTML` · `CSS` · `JavaScript` · `GitHub Pages` · `Vercel` · `OpenAI API`
 
 ---
 
-GitHub: [rayaneutk-droid](https://github.com/rayaneutk-droid)  
-Location: Toulouse, France
+## Connect
+
+| | |
+| --- | --- |
+| GitHub | [rayaneutk-droid](https://github.com/rayaneutk-droid) |
+| LinkedIn | [rayane-inhza-soumahoro](https://fr.linkedin.com/in/rayane-inhza-soumahoro) |
+| Instagram | [@inhzaprivate](https://www.instagram.com/inhzaprivate/) |
+| Location | Toulouse, France |
+
+*DM on LinkedIn for alternance opportunities in AI/SaaS.*
